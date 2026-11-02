@@ -1,10 +1,5 @@
-Computer Science undergraduate at Jain University, Bengaluru. I build local-first systems with open-source AI, offline inference, and a focus on privacy, accessibility, and reliability.
-
-## Selected work
-
-- [**BlindWalk**](https://github.com/sharan-s-dev/blind-walk) — air-gapped, screenless pedestrian navigation using offline graph routing, local models, spatial audio, and haptics.
-- [**VIGIL**](https://github.com/sharan-s-dev/VIGIL) — local-first memory archive with IndexedDB persistence, offline reflections, optional Ollama inference, validated JSON portability, and test-gated GitHub Pages deployment.
-- [**RepoGraph**](https://github.com/sharan-s-dev/RepoGraph-) — deterministic codebase architecture and dependency exploration with an optional open-weight AI architect.
+Computer Science undergrad at Jain University, Bengaluru. 
+Learning by building projects and exploring open source.
 
 - 🌐 Contributed to **kestra-io**:
   - [kestra #20858](https://github.com/kestra-io/kestra/pull/20858) — Core Java backend API fix for synchronous execution outputs (Merged)
